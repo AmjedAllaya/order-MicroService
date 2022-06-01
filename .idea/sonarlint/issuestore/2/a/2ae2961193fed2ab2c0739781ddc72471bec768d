@@ -1,0 +1,11 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…è…õüÿÿÿÿ8ž«¼Œ‘0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²äÐõýÿÿÿÿ8ŸÿÇŒ‘0
+]
+java:S1854"@Remove this useless assignment to local variable "foodOrderDTO".(­ÁÑÝ8¼¢¾Œ‘0
+`
+java:S1854">Remove this useless assignment to local variable "food_order".(²äÐõýÿÿÿÿ8ù‚¹Œ‘0
+n
+java:S1128"LRemove this unused import 'io.order.manager.food.order.manager.dto.UserDTO'.(þä¿ìýÿÿÿÿ8Éâ Ý‘0
+p
+java:S1128"NRemove this unused import 'io.order.manager.food.order.manager.entities.User'.(»‘»ùúÿÿÿÿ8Êâ Ý‘0

@@ -1,0 +1,5 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¥Ç ÿÿÿÿÿ
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(£…Ò¡þÿÿÿÿ8ÝÃ„Á‘0
+p
+java:S1128"NRemove this unused import 'io.order.manager.food.order.manager.entities.User'.(»‘»ùúÿÿÿÿ8§õèŽ‘0
